@@ -37,6 +37,7 @@
 		grid-column: 1;
 		margin-top: 2em;
 	}
+
 	.rotate {
 		animation: rotation 8s infinite linear;
 	}
